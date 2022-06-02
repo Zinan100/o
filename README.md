@@ -50,7 +50,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Zinan100/srannan">
+<a href="https://heroku.com/deploy?template=https://github.com/Zinan100/o">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
